@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/chfrank206/hf-portfolio/issues"
   },
-  "homepage": "https://github.com/chfrank206/hf-portfolio#readme"
+  "homepage": "https://github.com/chfrank206/hf-portfolio#readme",
+  "dependencies": {
+    "serve": "^11.3.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
