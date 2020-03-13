@@ -1,0 +1,19 @@
+{
+  "name": "hayden-frank-portfolio",
+  "version": "1.0.0",
+  "description": "My updated prtfolio site.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chfrank206/hf-portfolio.git"
+  },
+  "author": "Hayden Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chfrank206/hf-portfolio/issues"
+  },
+  "homepage": "https://github.com/chfrank206/hf-portfolio#readme"
+}
